@@ -42,4 +42,4 @@ DEVICE_MANIFEST_FILE +=
 The only change done above is changing := symbol to += so that manifest can't be overriden from device tree in BoardConfig makefile.
 
 At the end an example commit to properly implement it in your device tree could be :-
-https://github.com/Spanish-or-Vanish/android_device_xiaomi_sm8350-common/commit/a5d10215e01958362b5523162c06e30e8aa47e8c
+https://github.com/Mi-A3-laurel-sprout/device-xiaomi_laurel_sprout/commit/bb9a3538d2144c7fbf98635ce7702274b642e427
